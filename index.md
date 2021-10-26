@@ -8,3 +8,5 @@ A personal research blog, that talks about:
 3. Deep Learning
 4. Explainable AI (XAI)
 5. AI in Healthcare
+
+Contact Me [contact.md]
