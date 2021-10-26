@@ -1,7 +1,4 @@
----
-title: The Kth Dimension
----
 
-# Kountay Dwivedi
+# The Kth Dimension
 A researcher's blog.
 
