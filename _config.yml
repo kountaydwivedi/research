@@ -22,8 +22,8 @@ title: The Kth Dimension
 email: kountaydwivedi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A researcher's blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/research" # the subpath of your site, e.g. /blog
+url: "https://kountaydwivedi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kountaydwivedi
 github_username:  kountaydwivedi
 
