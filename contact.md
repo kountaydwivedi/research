@@ -12,5 +12,3 @@ kountaydwivedi@gmail.com
 
 ### Primary
 91- 9650220569
-
-Back to Home [index.md]
