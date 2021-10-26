@@ -1,3 +1,6 @@
+---
+title: The K<sup>th</sup> Dimension.
+---
 ## The K<sup>th</sup> Dimension.
 
 ### Explore your unknown world.
