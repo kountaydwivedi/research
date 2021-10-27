@@ -1,4 +1,4 @@
 
-# The K<sup>th</sup> Dimension
+# //Research
 A researcher's blog.
 
