@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Hi, I am Kountay Dwivedi.
+title: About
 permalink: /about/
 ---
+<!--# Hi, I am Kountay Dwivedi.-->
+
+![My card](/images/personal/my card.jpg)
 
 This is my personal research blog. Here, you will find plathora of interesting topics revolving around:
 1. Artificial Intelligence
@@ -11,6 +14,8 @@ This is my personal research blog. Here, you will find plathora of interesting t
 4. Explainable AI (XAI)
 5. AI in Healthcare
 
-<i>A journey of thousand miles start with a single, small step.</i>
+> A journey of thousand miles start with a single, small step.
 
-###Enjoy !!
+<!-- ```python
+print("Enjoy !!")
+``` -->
