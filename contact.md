@@ -1,6 +1,7 @@
 ---
-title: Contact Me
-date: 2021-10-26
+layout: page
+title: Contact
+permalink: /contact/
 ---
 
 ### Email:

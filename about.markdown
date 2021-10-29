@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
+strip_title: true
 permalink: /about/
 ---
 <!--# Hi, I am Kountay Dwivedi.-->
 
-![My card](/images/personal/my card.jpg)
+![My card](/research/images/personal/my card transparent.png)
 
 This is my personal research blog. Here, you will find plathora of interesting topics revolving around:
 1. Artificial Intelligence

@@ -20,17 +20,39 @@
 
 title: //Research
 email: kountaydwivedi@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A researcher's blog.
+description: >- # this means to ignore newlines until "baseurl:"  
+  A researcher's blog. Exploring the wonders of Artifical Intelligence.
 baseurl: "/research" # the subpath of your site, e.g. /blog
 url: "https://kountaydwivedi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# social profiles
 twitter_username: kountaydwivedi
 github_username:  kountaydwivedi
+youtube_username: kountaydwivedi
+facebook_username: dwivedikountay
+instagram_username: dwivedikountay
+linkedin_username: kountaydwivedi
+pinterest_username: dwivedikountay
+# rss: kountaydwivedi
+
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# some custom url
+footer-logo: /research/images/personal/logo_bw.png
+header-logo: /research/images/personal/logo-research.png
+favicon: /research/images/personal/favicon.png
+
+# custom permalink to posts:
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
