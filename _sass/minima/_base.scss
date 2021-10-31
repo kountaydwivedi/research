@@ -17,6 +17,7 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
+  background-img: $custom-bg repeat repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -94,8 +95,6 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  //custom added font-family
-  font-family: $header-font;
   font-weight: $base-font-weight;
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  //Greetings!
+title:  // Greetings!
 date:   2021-10-27
 categories: post
 ---

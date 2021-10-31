@@ -2,10 +2,12 @@
 
 // Define defaults for each variable.
 
-@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
-//$header-font: 'Architects Daughter', cursive;
-$header-font: 'Fruktur', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+$header-font: 'Dancing Script', cursive;
 
+
+//custom background
+$custom-bg: url('/research/images/personal/background-tile.png');
 
 
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
