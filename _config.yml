@@ -37,11 +37,24 @@ linkedin_username: kountaydwivedi
 pinterest_username: dwivedikountay
 
 
+
+
+# pagination setting
+paginate: 5
+paginate-path: /reserach/page:num
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate
+  
+  
+  
+  
+  
+  
 # some custom url
 footer-logo: /research/images/personal/logo_bw.png
 header-logo: /research/images/personal/logo-research.png
