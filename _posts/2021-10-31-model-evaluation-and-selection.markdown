@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  // Model Evaluation and Interpretation
+title:  // Model Evaluation and Selection
 date:   2021-10-31
 categories: post
 ---

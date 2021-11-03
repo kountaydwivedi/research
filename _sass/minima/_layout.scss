@@ -2,6 +2,7 @@
  * Site header
  */
 .site-header {
+  background-color: $header-color;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
@@ -11,11 +12,6 @@
 }
 
 .site-title {
-  //img{
-    //width: 60%;
-	//height: 20%;
-	//margin-top: 10px;
-  //}
   @include relative-font-size(2);
   font-family: $header-font;
   font-weight: 300;
@@ -113,6 +109,7 @@
  * Site footer
  */
 .site-footer {
+  background-color: $footer-color;
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
@@ -155,49 +152,41 @@
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 10;
   padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1,
 .footer-col-2,
-.footer-col-3,
-.footer-col-4 {
-  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  width:         calc(25% - (#{$spacing-unit} / 2));
+.footer-col-3{
+  width: -webkit-calc(22% - (#{$spacing-unit} / 2));
+  width:         calc(22% - (#{$spacing-unit} / 2));
 }
-
-
-//.footer-col-2 {
-  //width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  //width:         calc(25% - (#{$spacing-unit} / 2));
-//}
-
-//.footer-col-3 {
-  //width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-  //width:         calc(25% - (#{$spacing-unit} / 2));
-//}
+.footer-col-4 {
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
+}
 
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2,
   .footer-col-3  {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(22% - (#{$spacing-unit} / 2));
+    width:         calc(22% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-4 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
   }
 }
 
 @include media-query($on-palm) {
   .footer-col {
     float: none;
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(75% - (#{$spacing-unit} / 2));
+    width:         calc(75% - (#{$spacing-unit} / 2));
   }
 }
 

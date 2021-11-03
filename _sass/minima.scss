@@ -6,10 +6,6 @@
 $header-font: 'Dancing Script', cursive;
 
 
-//custom background
-$custom-bg: url('/research/images/personal/background-tile.png');
-
-
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -20,7 +16,10 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
+//$bg-custom-color:  #F2F3F4 !default;
 $brand-color:      #2a7ae2 !default;
+$header-color:     #FFBF00 !default;
+$footer-color:     gainsboro !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
