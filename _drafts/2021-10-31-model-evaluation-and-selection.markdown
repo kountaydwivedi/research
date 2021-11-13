@@ -12,4 +12,4 @@ categories: post
 
 <br>
 # Abstract:
-The core target of any data scientist is to deduce a model that is almost a *perfect*  fit to the underlying original distribution of the population. While, getting an identical model as the distribution is infeasible, this is something that is possible, feasible and achievable. 
+The ultimate target of any data scientist is to deduce a model that is almost a *perfect*  fit to the underlying original distribution of the population. While, developing a model that could imitate the original distribution flawlessly is almost infeasible (since we always do not have entire population to train the  model), a model that *almost* mimics the underlying distribution is quite possible. 

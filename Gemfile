@@ -24,6 +24,12 @@ group :jekyll_plugins do
 end
 
 
+# for livereload to occur
+# the command for livereload would be like this:
+## bundle exec jekyll serve --force --livereload
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
