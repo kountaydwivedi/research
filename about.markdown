@@ -15,7 +15,6 @@ This is my personal research blog. Here, you will find plathora of interesting t
 4. Explainable AI (XAI)
 5. AI in Healthcare
 
-[Link to my resume.](/research/Resume2020.pdf)
 
 > A journey of thousand miles start with a single, small step.
 
