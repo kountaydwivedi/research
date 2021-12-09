@@ -3,6 +3,7 @@ layout: page
 title: About
 strip_title: true
 permalink: /about/
+order: 4
 ---
 <!--# Hi, I am Kountay Dwivedi.-->
 

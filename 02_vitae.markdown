@@ -1,7 +1,8 @@
 ---
 layout: page
-title: My Resume
-permalink: /resume/
+title: Vitae
+permalink: /cv/
+order: 2
 ---
 
 ---
