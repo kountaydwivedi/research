@@ -1,4 +1,10 @@
 # Welcome to Jekyll!
+# ===========================================================
+# GIT commit commands in sequence:
+# 1. git add .
+# 2. git commit -m "<msg>"
+# 3. git push origin main
+# ===========================================================
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
