@@ -66,7 +66,7 @@ k-Fold Cross Validation could be considered as the most promising method for mod
 	
 	<center>
 	<figure>
-	<img src="/research/images/images/the-one-with-model-selection/k-fold.SVG" />
+	<img src="/research/images/images/the-one-with-model-selection/k-fold.svg" />
 	<figcaption>Fig.: k-Fold Cross Validation conceptual art.</figcaption>
 	</figure>
 	</center>
@@ -79,7 +79,7 @@ k-Fold Cross Validation could be considered as the most promising method for mod
 	    
 		<center>
 		<figure>
-		<img src="/research/images/images/the-one-with-model-selection/2-fold-cv.SVG" />
+		<img src="/research/images/images/the-one-with-model-selection/2-fold-cv.svg" />
 		<figcaption>Fig.: 2-Fold Cross Validation concept.</figcaption>
 		</figure>
 		</center>
@@ -90,7 +90,7 @@ k-Fold Cross Validation could be considered as the most promising method for mod
 	  
 		<center>
 		<figure>
-		<img src="/research/images/images/the-one-with-model-selection/loocv.SVG" />
+		<img src="/research/images/images/the-one-with-model-selection/loocv.svg" />
 		<figcaption>Fig.: Leave-one-out-cross-validation concept.</figcaption>
 		</figure>
 		</center>
