@@ -13,7 +13,7 @@ categories: post
 
 
 <br>
-## Abstract:
+## <span style="color:brown;">// Abstract:
 The ultimate target of any data scientist is to deduce a model that is almost a *perfect*  fit to the underlying original distribution of the population. While, developing a model that could imitate the original distribution flawlessly is almost infeasible (since we always do not have entire population to train the  model), a model that *almost* mimics the underlying distribution is quite feasible. 
 
 Getting a high accuracy should not be the only purpose of any data scientist. If a biased dataset or small dataset is used for training a model, that model might perform awesome on the in-hand dataset, but it might fail to produce accurate result in the real world with generalised instances. Hence, machine learning practitioners/data  scientists are always tuning the model's *"parameters and hyperparameter"*. since parameter assignement is unfortunately not in our hand (unless we manually assign weights to every feature in the dataset), the only thing that we have in our hand that we could optimise according to our distribution is the set of hyperparameters in our dataset.
@@ -22,7 +22,7 @@ Getting a high accuracy should not be the only purpose of any data scientist. If
 
 <br>
 
-## Model evaluation techniques:
+## <span style="color:green;">// Model evaluation techniques:
 
 # 1. Resubstitution evaluation:
 Also known as Residual Method, it is the most basic method of model evaluation, and thus highly non-recommended.
@@ -197,7 +197,7 @@ The bootstrap method is an alternative approach to model evaluation, which is of
 
 <br>
 
-## Key take-aways:
+## <span style="color:blue;">// Key take-aways:
 After going through various model evaluation method, the question arises, which method to use? Well:
 
   - The **Resubstitution evaluation** method is a very naive method and thus, not recommended, due to its ignorance of the importance of evaluation over unseen data, thus bringing in very high variance.
@@ -208,8 +208,8 @@ After going through various model evaluation method, the question arises, which 
 
 <br>
 
-## References
- S Raschka et al., *Model evaluation, model selection, and algorithm selection in machine learning*, arXiv preprint arXiv:1811.12808, 2018 - arxiv.org
+## <span style="color:red;">// References:
+ [S Raschka et al., *Model evaluation, model selection, and algorithm selection in machine learning*, arXiv preprint arXiv:1811.12808, 2018 - arxiv.org](https://arxiv.org/abs/1811.12808)
 
 <br>
 

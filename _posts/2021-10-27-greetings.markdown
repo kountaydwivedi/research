@@ -12,6 +12,6 @@ Cheers and happy reading.... 😎
 
 
 {% highlight python %}
-def print_signature_code():
+def signature_code():
 	print(" :-} ")
 {% endhighlight %}
